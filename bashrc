@@ -17,6 +17,7 @@ alias bluetoothon='sudo systemctl start bluetooth'
 alias temp='sensors'
 alias ultrascan='cd ultra_scan && ./ultra_scan.sh'
 alias gondor="sshpass -p '' ssh ryan@10.10.10.201"
+alias reboot="sudo reboot"
 alias shire="sshpass -p '' ssh ryan@10.10.10.25"
 alias dimfix='sudo brightnessctl s 77000'
 alias vim='nvim'

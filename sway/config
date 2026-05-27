@@ -229,7 +229,7 @@ bindsym $mod+r mode "resize"
 
 
 # WIndow borers
-	client.focused       #af3a03 #282828 #f9f5d7 #665c54 #af3a03
+	client.focused       #83a598 #282828 #f9f5d7 #83a598 #83a598
 	client.unfocused      #282828 #665c54 #928374 #282828 #282828
 	client.focused_inactive  #282828 #665c54 #928374 #282828 #282828
 
